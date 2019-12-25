@@ -11,7 +11,7 @@ import io.github.huthesh.spring.bean.ExampleService;
 /**
  * This bean in inject through config  class.
  * 
- * @author hkarkada
+ * @author Huthesh
  *
  */
 
